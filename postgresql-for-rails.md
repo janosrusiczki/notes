@@ -10,4 +10,5 @@ PostgreSQL for Ruby on Rails / Ubuntu 12.04
 
 ## Links
 
-http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/
+* https://help.ubuntu.com/community/PostgreSQL
+* http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/
