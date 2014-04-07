@@ -8,9 +8,11 @@ PostgreSQL for Ruby on Rails / Ubuntu 12.04
 * `\password postgres`
 * `sudo -u postgres createdb mydatabase`
 
-## Import a Heroku dump
+## Create, download & import a Heroku dump
 
-`pg_restore --verbose --clean --no-acl --no-owner -h localhost -U postgres -d mydatabase b257.dump`
+* `heroku pgbackups:capture --expire --app myappname` - creates a backup
+* `heroku pgbackups:url --app myappname` - displays the download link
+* `pg_restore --verbose --clean --no-acl --no-owner -h localhost -U postgres -d mydatabase b257.dump`
 
 ## Links
 
