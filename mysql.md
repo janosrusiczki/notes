@@ -1,4 +1,6 @@
-    CREATE USER 'username'@'localhost' IDENTIFIED BY 'username';
-    GRANT USAGE ON *.* TO  'username'@'localhost' IDENTIFIED BY  '***' WITH MAX_QUERIES_PER_HOUR 0 MAX_CONNECTIONS_PER_HOUR 0 MAX_UPDATES_PER_HOUR 0 MAX_USER_CONNECTIONS 0;
-    CREATE DATABASE IF NOT EXISTS  `username`;
-    GRANT ALL PRIVILEGES ON  `username`.* TO  'username'@'localhost';
+```
+CREATE USER 'username'@'localhost' IDENTIFIED BY 'username';
+GRANT USAGE ON *.* TO  'username'@'localhost' IDENTIFIED BY  '***' WITH MAX_QUERIES_PER_HOUR 0 MAX_CONNECTIONS_PER_HOUR 0 MAX_UPDATES_PER_HOUR 0 MAX_USER_CONNECTIONS 0;
+CREATE DATABASE IF NOT EXISTS  `username`;
+GRANT ALL PRIVILEGES ON  `username`.* TO  'username'@'localhost';
+```
