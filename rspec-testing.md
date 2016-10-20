@@ -14,3 +14,4 @@ end
 ```
 * Stub will_paginate `view.stub(:will_paginate)`
 * [How to test mailers with rspec](http://blog.lucascaton.com.br/index.php/2010/10/25/how-to-test-mailers-in-rails-3-with-rspec/)
+* Use ``let!`` to evaluate expression immediately or else it will be evaluated on first usage => big booboo
