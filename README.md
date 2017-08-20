@@ -3,6 +3,7 @@ notes
 Environment
 * [tmux](tmux.md)
 * [vim](vim.md)
+* [dotfiles](https://github.com/janosrusiczki/dotfiles)
 
 Ruby and Rails
 * [FactoryGirl](factorygirl.md)
