@@ -18,3 +18,4 @@ Everything else
 * [Internationalization](internationalization.md)
 * [Let's Encrypt](letsencrypt.md)
 * [MySQL](mysql.md)
+* [OpenStreetMap](openstreetmap.md)
