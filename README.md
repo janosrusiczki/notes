@@ -5,6 +5,7 @@ Environment
 * [vim](vim.md)
 * [dotfiles](https://github.com/janosrusiczki/dotfiles)
 * [Passwordless login](passwordless-login.md)
+* [lazygit](https://github.com/jesseduffield/lazygit)
 
 Ruby and Rails
 * [FactoryGirl](factorygirl.md)
